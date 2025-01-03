@@ -1,0 +1,1 @@
+# MYSQL-like-not-like-length-upper-lower-
